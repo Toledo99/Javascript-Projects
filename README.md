@@ -1,5 +1,5 @@
 # Javascript-Projects
-Learning JavaScript through a sequence of projects suggested by AI. I am using mainly [Javascript.info](https://javascript.info/)
+Learning JavaScript through a sequence of projects suggested by AI. I am using mainly [Javascript.info](https://javascript.info/) as learning resource
 
 Here's the project sequence for learning JavaScript suggested by ChatGPT 3.5:
 
